@@ -1,0 +1,7 @@
+1. Reference lectures 13 and 14 are from iit ropar deep learning course which has amazing intuitions on how these networks work.  
+2. Vedio is long so I kept important timelines required.
+   00:00 - 09:20 - Theory Explanation
+   09:20 - 13:51  - preprocessing and tokenization of text.
+   13:51 - 17:30 - Encoder - decoder model explanation.
+   17:30 - 18:34 - Regularization Methods.
+   18:34 - 24:40 - Results Explanation.
